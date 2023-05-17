@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @maha-saeed
-- 👀 I’m interested in  software design and development and UI-UX Design, design and development, computer vision 
+- 👀 I’m interested in  software design and development and UI-UX Design, design and development, Blockchain technology
 - 💞️ I’m looking to collaborate on  a job on  computer science  specialist
 - 📫 How to reach me : maha-saeed@outlook.com 
 
